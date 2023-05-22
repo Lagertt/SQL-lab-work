@@ -29,7 +29,6 @@
 - Non-repeatable reads
 - Phantom reads
 - Lost update
-Решить х.
 
 
 ## 6. Права доступа
